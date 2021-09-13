@@ -2,7 +2,7 @@
 - 👀 I’m interested in java & php
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on game servers
-- 📫 Reach me by Discord: Kriiiiiiiz#0502
+- 📫 Reach me by Discord: Kriiiiiiiz#6969
 
 <!---
 Kriiiiiiiz/Kriiiiiiiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
