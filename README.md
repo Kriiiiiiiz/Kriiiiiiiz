@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kriiiiiiiz
-- 👀 I’m interested in java & php
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on game servers
+- 👀 I’m interested in Java & JS.
+- 🌱 I’m currently learning Java Script.
+- 💞️ I’m looking to collaborate on Game Servers !
 - 📫 Reach me by Discord: Kriiiiiiiz#6969
 
 <!---
