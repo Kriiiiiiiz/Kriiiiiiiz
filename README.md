@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Kriiiiiiiz&color=green)
+![](https://komarev.com/ghpvc/?username=Kriiiiiiiz&color=d4ccf9&style=flat-square)
 
 - 👋 Hi, I’m @Kriiiiiiiz
 - 👀 I’m interested in Java & JS.
