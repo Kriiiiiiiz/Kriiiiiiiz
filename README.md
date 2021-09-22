@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Kriiiiiiiz&color=green)
+
 - 👋 Hi, I’m @Kriiiiiiiz
 - 👀 I’m interested in Java & JS.
 - 🌱 I’m currently learning Java Script.
