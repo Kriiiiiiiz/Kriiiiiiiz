@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java & JS.
 - 🌱 I’m currently learning Java Script.
 - 💞️ I’m looking to collaborate on Game Servers !
-- 📫 Reach me by Discord: Kriiiiiiiz#6969
+- 📫 Reach me by [Discord](https://discord.io/KrizOnDev): Kriiiiiiiz#6969
 
 <!---
 Kriiiiiiiz/Kriiiiiiiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
