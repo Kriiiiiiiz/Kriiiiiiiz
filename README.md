@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Kriiiiiiiz
 - 🌱 CEO at [OlimpoHosting](https://OlimpoHost.com) .
-- 👀 I’m interested in Java & JS .
+- 👀 I’m interested in cloud & hosting .
 - 💞️ I’m looking to collaborate on Game Servers (backend) !
 - 📫 Reach me by [Discord](https://discord.io/KrizOnDev): Kriiiiiiiz#6969
 
